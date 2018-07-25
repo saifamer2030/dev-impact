@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "433423417948",
+    "firebase_url": "https://my-app-login-545fb.firebaseio.com",
+    "project_id": "my-app-login-545fb",
+    "storage_bucket": "my-app-login-545fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433423417948:android:90232356181b77d0",
+        "android_client_info": {
+          "package_name": "saifamerealaandeveloper2030.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433423417948-mk0rl97kiklsbv38tcn77ngd1l1m6fft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saifamerealaandeveloper2030.com.myapplication",
+            "certificate_hash": "b2209845d072fac4dd9a1d32cbc63dc06f4d23ef"
+          }
+        },
+        {
+          "client_id": "433423417948-961r2bdnsh6shaqve3aomqk1eemkii0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-85DnLmiwwQbUGlpYn5qXqA0DXYDbxTc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433423417948-961r2bdnsh6shaqve3aomqk1eemkii0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
