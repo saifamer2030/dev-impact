@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Mohamed Elboghdady Resume</string>
+    <string name="large_text">
+        "Graphics Designer (3D / 2D),\n a Professional Photographer"
+        </string>
+    <string name="action_settings">Settings</string>
+    <string name="mohamed_elbogdady">Mohamed Elbogdady</string>
+    <string name="ksa_riyadh">KSA, Riyadh</string>
+    <string name="todo">TODO</string>
+    <string name="info">Info</string>
+    <string name="company">Company:</string>
+    <string name="graphics_designer">Graphics Designer</string>
+    <string name="phone">Phone:</string>
+    <string name="_966_59163_4383">+966-59163-4383</string>
+    <string name="profession">Profession:</string>
+</resources>
